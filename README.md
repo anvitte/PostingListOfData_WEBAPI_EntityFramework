@@ -1,4 +1,4 @@
-# How you xan call the api with list of data for posting the data in database
+# How you can call the api with list of data for posting the data in database
 
 Step 1 - Before run follow some steps to enable migration approach for entity framework
 
